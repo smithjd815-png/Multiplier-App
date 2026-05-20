@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+         //variables to connect to main activity
         val num1 = findViewById<EditText>(R.id.num1)
         val num2 = findViewById<EditText>(R.id.num2)
         val btnMultiply = findViewById<Button>(R.id.btnMultiply)
