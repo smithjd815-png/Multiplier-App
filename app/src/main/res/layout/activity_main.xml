@@ -9,15 +9,15 @@
     <EditText
         android:id="@+id/num1"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="86dp"
         android:hint="26"
         android:inputType="numberDecimal"
-        android:text="26"/>
+        android:text="26" />
 
     <EditText
         android:id="@+id/num2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="93dp"
         android:hint="52"
         android:inputType="numberDecimal"
         android:text="52" />
